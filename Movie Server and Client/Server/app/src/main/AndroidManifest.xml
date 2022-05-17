@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.server">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher" >
+
+        <service
+            android:name=".movieService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="course.examples.movieclient.movieInfo" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
