@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="broad_permission">Allow Permission to access the second application</string>
+</resources>
