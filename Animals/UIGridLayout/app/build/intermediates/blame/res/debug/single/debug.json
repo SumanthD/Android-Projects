@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\cat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_elephant.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\elephant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_giraffe.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\giraffe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lion.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\lion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_panda.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\panda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tiger.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\tiger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\layout-large_main.xml.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dog.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\dog.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hippo.jpg.flat",
+        "source": "C:\\Users\\sdonep2\\Desktop\\UIGridLayout\\app\\src\\main\\res\\drawable-hdpi\\hippo.jpg"
+    }
+]

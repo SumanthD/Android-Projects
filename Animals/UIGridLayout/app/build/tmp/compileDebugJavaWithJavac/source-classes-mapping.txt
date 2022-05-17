@@ -1,0 +1,12 @@
+course/examples/UI/GridLayout/FactsViewActivity.java
+ course.examples.UI.GridLayout.FactsViewActivity
+course/examples/UI/GridLayout/GridLayoutActivity.java
+ course.examples.UI.GridLayout.GridLayoutActivity
+ course.examples.UI.GridLayout.GridLayoutActivity$1
+course/examples/UI/GridLayout/ImageViewActivity.java
+ course.examples.UI.GridLayout.ImageViewActivity
+ course.examples.UI.GridLayout.ImageViewActivity$1
+course/examples/UI/GridLayout/ImageAdapter.java
+ course.examples.UI.GridLayout.ImageAdapter
+course/examples/UI/GridLayout/BuildConfig.java
+ course.examples.UI.GridLayout.BuildConfig
